@@ -1,5 +1,5 @@
 # Simple Blog
-This is a simple blog project. The blog is developed using HTML AND CSS.
+This is a simple blog project. The blog is developed using HTML and CSS.
 
 # Screenshot
 Here we have project screenshot :
