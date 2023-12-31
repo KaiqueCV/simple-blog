@@ -1,4 +1,4 @@
-# Animated Login Page 
+# Simple Blog
 This is a simple blog project. The blog is developed using HTML AND CSS.
 
 # Screenshot
